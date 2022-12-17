@@ -1,0 +1,48 @@
+-------------------------------- FACTURA DE COMPRA --------------------------------
+
+
+
+
+Fecha de venta: 29/05/2022
+
+
+Datos del Cliente: 
+Tipo de Cliente: Empresa
+Nombre:PCompramos
+Correo:pc@javacomp.com
+Direccion:Calle Granada 2 Calle Granada 19876
+Tarjeta de Crédito:Irina 9087654324567890 Tue Jun 01 00:00:00 CEST 2027
+Teléfono:987654323
+
+
+Tipo: Logitech M185 Ratón
+Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido óptico
+Categoria: Ordenadores
+Cantidad: 1
+Precio: 10.89
+
+
+Tipo: Altavoz Energy
+Caracteristicas: 30 W ; Bluetooth ; THD
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 61.99
+
+
+Tipo: Auriculares Gaming HyperX
+Caracteristicas: Diadema ; Cable 1m ; Tecnología Envolvente
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 69.99
+
+
+
+
+
+
+Gastos de envio: 5€
+-----------------------------------------------------------------------------------
+IMPORTE TOTAL: 145
+
+
+-----------------------------------------------------------------------------------

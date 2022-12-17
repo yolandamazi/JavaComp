@@ -1,0 +1,97 @@
+-------------------------------- FACTURA DE COMPRA --------------------------------
+
+
+
+
+Fecha de venta: 29/05/2022
+
+
+Datos del Cliente: 
+Tipo de Cliente: Empresa
+Nombre:Componentes&CO
+Correo:componentes@javacomp.com
+Direccion:Calle Madrid 4 Calle Madrid 29901
+Tarjeta de Crédito:Manuel 9876543211234567 Sat Dec 01 00:00:00 CET 2029
+Teléfono:9876576
+
+
+Tipo: Razer Blade 15 Studio Edition
+Caracteristicas: Intel Core i7 ; NVIDIA Quadro RTX 5000 ; 16gb
+Categoria: Ordenadores
+Cantidad: 1
+Precio: 4599.99
+
+
+Tipo: Sony DSC RX10
+Caracteristicas: Eye AF; 21 MP ; CMOS ; Apertura 2,4 - 4
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 2046.09
+
+
+Tipo: Tarjeta Grafica RTX 3080
+Caracteristicas: Gigabyte GeForce RTX 3080 GAMING OC V2 LHR 10GB GDDR6X
+Categoria: Componentes
+Cantidad: 1
+Precio: 899.89
+
+
+Tipo: Televisor Samsung 
+Caracteristicas: 65" ; 4K ; Smart TV
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 799.0
+
+
+Tipo: IPhone 11 Pro
+Caracteristicas: 64gb de espacio ; 8gb RAM
+Categoria: Móviles y Telefonía
+Cantidad: 1
+Precio: 400.67
+
+
+Tipo: PlayStation 5
+Caracteristicas: AMD Zen 2 ; 16gb GDDR6 ; 825gb SSD
+Categoria: Consolas y Videjuegos
+Cantidad: 1
+Precio: 399.99
+
+
+Tipo: Monitor HP M27fwa
+Caracteristicas: 27"; FHD ; HDMI ; VGA ; Audio
+Categoria: Ordenadores
+Cantidad: 1
+Precio: 177.65
+
+
+Tipo: Auriculares Gaming HyperX
+Caracteristicas: Diadema ; Cable 1m ; Tecnología Envolvente
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 69.99
+
+
+Tipo: Altavoz Energy
+Caracteristicas: 30 W ; Bluetooth ; THD
+Categoria: TV Audio y Foto
+Cantidad: 1
+Precio: 61.99
+
+
+Tipo: Logitech M185 Ratón
+Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido óptico
+Categoria: Ordenadores
+Cantidad: 1
+Precio: 10.89
+
+
+
+
+
+
+Gastos de envio: 5€
+-----------------------------------------------------------------------------------
+IMPORTE TOTAL: 9464
+
+
+-----------------------------------------------------------------------------------
