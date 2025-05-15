@@ -1,9 +1,6 @@
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="150"/></td>
-<td><h1>JavaComp</h1></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="200"/>
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
