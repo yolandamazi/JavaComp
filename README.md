@@ -1,4 +1,4 @@
-<h1 align="center"> 🧮 JAVACOMP </h1>
+<h1 align="center"> javacomp </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="200"/>
