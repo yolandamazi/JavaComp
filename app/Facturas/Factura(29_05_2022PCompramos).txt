@@ -11,12 +11,12 @@ Tipo de Cliente: Empresa
 Nombre:PCompramos
 Correo:pc@javacomp.com
 Direccion:Calle Granada 2 Calle Granada 19876
-Tarjeta de Crédito:Irina 9087654324567890 Tue Jun 01 00:00:00 CEST 2027
-Teléfono:987654323
+Tarjeta de CrÃ©dito:Irina 9087654324567890 Tue Jun 01 00:00:00 CEST 2027
+TelÃ©fono:987654323
 
 
-Tipo: Logitech M185 Ratón
-Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido óptico
+Tipo: Logitech M185 RatÃ³n
+Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido Ã³ptico
 Categoria: Ordenadores
 Cantidad: 1
 Precio: 10.89
@@ -30,7 +30,7 @@ Precio: 61.99
 
 
 Tipo: Auriculares Gaming HyperX
-Caracteristicas: Diadema ; Cable 1m ; Tecnología Envolvente
+Caracteristicas: Diadema ; Cable 1m ; TecnologÃ­a Envolvente
 Categoria: TV Audio y Foto
 Cantidad: 1
 Precio: 69.99
@@ -40,7 +40,7 @@ Precio: 69.99
 
 
 
-Gastos de envio: 5€
+Gastos de envio: 5â‚¬
 -----------------------------------------------------------------------------------
 IMPORTE TOTAL: 145
 
