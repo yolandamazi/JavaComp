@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="150"/>
+</p>
+
 # 🧮 JavaComp
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
