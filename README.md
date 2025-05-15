@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="80"/></td>
+<td><img src="https://raw.githubusercontent.com/yolandamazi/JavaComp/main/app/src/main/resources/LOGO.jpg" alt="JavaComp Logo" width="150"/></td>
 <td><h1>JavaComp</h1></td>
 </tr>
 </table>
