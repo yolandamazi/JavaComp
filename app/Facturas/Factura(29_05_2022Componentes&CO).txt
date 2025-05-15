@@ -11,8 +11,8 @@ Tipo de Cliente: Empresa
 Nombre:Componentes&CO
 Correo:componentes@javacomp.com
 Direccion:Calle Madrid 4 Calle Madrid 29901
-Tarjeta de Crédito:Manuel 9876543211234567 Sat Dec 01 00:00:00 CET 2029
-Teléfono:9876576
+Tarjeta de CrÃ©dito:Manuel 9876543211234567 Sat Dec 01 00:00:00 CET 2029
+TelÃ©fono:9876576
 
 
 Tipo: Razer Blade 15 Studio Edition
@@ -45,7 +45,7 @@ Precio: 799.0
 
 Tipo: IPhone 11 Pro
 Caracteristicas: 64gb de espacio ; 8gb RAM
-Categoria: Móviles y Telefonía
+Categoria: MÃ³viles y TelefonÃ­a
 Cantidad: 1
 Precio: 400.67
 
@@ -65,7 +65,7 @@ Precio: 177.65
 
 
 Tipo: Auriculares Gaming HyperX
-Caracteristicas: Diadema ; Cable 1m ; Tecnología Envolvente
+Caracteristicas: Diadema ; Cable 1m ; TecnologÃ­a Envolvente
 Categoria: TV Audio y Foto
 Cantidad: 1
 Precio: 69.99
@@ -78,8 +78,8 @@ Cantidad: 1
 Precio: 61.99
 
 
-Tipo: Logitech M185 Ratón
-Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido óptico
+Tipo: Logitech M185 RatÃ³n
+Caracteristicas: Inalambrico ; Peso 1,8g ; Seguimiento fluido Ã³ptico
 Categoria: Ordenadores
 Cantidad: 1
 Precio: 10.89
@@ -89,7 +89,7 @@ Precio: 10.89
 
 
 
-Gastos de envio: 5€
+Gastos de envio: 5â‚¬
 -----------------------------------------------------------------------------------
 IMPORTE TOTAL: 9464
 
